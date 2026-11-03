@@ -36,7 +36,7 @@ favorite_movie = "Avengers: Endgame"
 print(f"My favorite movie is {favorite_movie}")
 ```
 ## Poster
-![Avengers: Endgame poster](https://via.placeholder.com/300x150)
+![Avengers: Endgame poster](https://m.media-amazon.com/images/S/pv-target-images/ae8093e4439b66320d3cc1f1fb96fa414530202ee4b21cc00a08d6b66de541d6.jpg)
 ## Learn More
 Visit the [IMDb page](https://www.imdb.com/title/tt4154796/).
 I watched this in theaters with my friends.[^1]
